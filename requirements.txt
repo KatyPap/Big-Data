@@ -1,0 +1,7 @@
+kafka-python==2.0.2
+pandas 
+uxsim
+pyspark
+pymongo
+#to install the requirements run : pip install -r requirements.txt
+#to generate a requirements file from current project run pip freeze > requirements.txt 
